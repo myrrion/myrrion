@@ -15,20 +15,19 @@ I enjoy building things that solve real problems, learning technologies that pus
 
 ---
 
-## 💻 Technologies & Tools I Use
 
-| Language / Tech | Expertise | Notes |
-|-----------------|-----------|-------|
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | Intermediate | Main language for Flutter |
-| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) | Growing | UI/UX for mobile apps |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | Experienced | Unity scripting & general backend |
-| ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) | Experienced | Game development & prototyping |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | Confident | Using Git CLI & GitHub for version control |
-| ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | Daily Driver | Main IDE for almost everything |
-| ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Learning | Backend-as-a-service for apps |
-| ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) | Confident | Writing clean docs & READMEs |
+### 🛠️ Technologies & Tools I Use
 
----
+| Language / Tech | Current Level | Notes |
+|-----------------|----------------|-------|
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | Learning | Currently learning via Flutter |
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) | Beginner | Working on small apps |
+| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | Familiar | Used mainly with Unity |
+| ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) | Beginner | Exploring game mechanics |
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | Learning | Using GitHub + GitHub Desktop |
+| ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | Regular Use | Main code editor |
+| ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Beginner | Plan to integrate it in apps |
+| ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) | Beginner | Using it for README/docs |
 
 ## 📚 Repositories to Watch
 
